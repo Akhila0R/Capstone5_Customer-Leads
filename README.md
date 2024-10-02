@@ -6,14 +6,14 @@
 - [Insights from EDA](#insights-from-eda)
 - [Encoding with ONE HOT ENCODER](#encoding-with-one-hot-encoder)
 - [Handling Imbalance in Target Variable](#handling-imbalance-in-target-variable)
-- [Feature Scaling using MINMAX Scaler](feature-scaling-using-minmax-scaler)
-- [Visualizing Model Scores](visualizing-model-scores)
-- [Feature Importance](feature-importance)
-- [Important Features](important-features)
-- [Which leads are most likely to convert into paying customers](which-leads-are-most-likely-to-convert-into-paying-customers)
-- [How can the platform prioritize and allocate resources to leads with the highest conversion](how-can-the-platform-prioritize-and-allocate-resources-to-leads-with-the-highest-conversion)
-- [What marketing and sales strategies can be tailored to specific lead segments](what-marketing-and-sales-strategies-can-be-tailored-to-specific-lead-segments)
-- [How can the lead management process be streamlined and made more effective](how-can-the-lead-management-process-be-streamlined-and-made-more-effective)
+- [Feature Scaling using MINMAX Scaler](#feature-scaling-using-minmax-scaler)
+- [Visualizing Model Scores](#visualizing-model-scores)
+- [Feature Importance](#feature-importance)
+- [Important Features](#important-features)
+- [Which leads are most likely to convert into paying customers](#which-leads-are-most-likely-to-convert-into-paying-customers)
+- [How can the platform prioritize and allocate resources to leads with the highest conversion](#how-can-the-platform-prioritize-and-allocate-resources-to-leads-with-the-highest-conversion)
+- [What marketing and sales strategies can be tailored to specific lead segments](#what-marketing-and-sales-strategies-can-be-tailored-to-specific-lead-segments)
+- [How can the lead management process be streamlined and made more effective](#how-can-the-lead-management-process-be-streamlined-and-made-more-effective)
 ## Problem Statement
 The Edu-Tech company is seeking to improve its customer acquisition process, optimize marketing strategies, and enhance lead conversion rates by leveraging its customer data. The objective is to analyze this data to gain insights into customer behaviors, preferences, and conversion patterns. These insights will be used to prioritize leads with the highest likelihood of conversion, refine marketing and sales strategies, and optimize resource allocation.
 Key questions to address include:
