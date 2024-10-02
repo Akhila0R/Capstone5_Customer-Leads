@@ -116,7 +116,7 @@ Special Cases:
 
 16. Specialization:
 * Distribution is high in Unknown Category.
-* >40% of conversions in Finance, Business, Operations, Marketing, Supply Chain, Human Resource, Hospitality, Banking and Finance  and Healthcare Management.
+* More than 40% of conversions in Finance, Business, Operations, Marketing, Supply Chain, Human Resource, Hospitality, Banking and Finance  and Healthcare Management.
 
 17. Current occupation:
 * Distribution is high in Unemployed and Unknown categories.
