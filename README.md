@@ -1,4 +1,4 @@
-# Capstone5_Customer-Leads
+# Customer Lead Prediction
 ## Table of Contents
 - [Problem Statement](#problem-statement)
 - [Information About Dataset and Cleaning](#information-about-dataset-and-cleaning)
